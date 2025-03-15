@@ -1,0 +1,11 @@
+<script>start("/Users/khaos/Desktop/samet/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("assets","assets",1,384,"384 B",1742035617,"15.03.2025 11:46:57");</script>
+<script>addRow(".gitignore",".gitignore",0,10,"10 B",1742035616,"15.03.2025 11:46:56");</script>
+<script>addRow("char.png","char.png",0,59575,"58.2 kB",1742038255,"15.03.2025 12:30:55");</script>
+<script>addRow("charr.png","charr.png",0,141147,"138 kB",1742035734,"15.03.2025 11:48:54");</script>
+<script>addRow("index.css","index.css",0,2929,"2.9 kB",1742035617,"15.03.2025 11:46:57");</script>
+<script>addRow("index.html","index.html",0,30514,"29.8 kB",1742035617,"15.03.2025 11:46:57");</script>
+<script>addRow("index.js","index.js",0,97708,"95.4 kB",1742037639,"15.03.2025 12:20:39");</script>
+<script>addRow("LICENSE","LICENSE",0,1517,"1.5 kB",1742035616,"15.03.2025 11:46:56");</script>
+<script>addRow("README.md","README.md",0,1909,"1.9 kB",1742035617,"15.03.2025 11:46:57");</script>
